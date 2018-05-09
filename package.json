@@ -1,0 +1,42 @@
+{
+  "name": "retro-lambda",
+  "version": "1.0.0",
+  "description": "NodeJS-based prototype of an event-sourced computing platform with retroactive capabilities.",
+  "keywords": [
+    "event sourcing",
+    "serverless",
+    "retroaction"
+  ],
+  "homepage": "https://github.com/vs-uulm/retro-lambda",
+  "bugs": {
+    "url": "https://github.com/vs-uulm/retro-lambda/issues"
+  },
+  "repository": "github:vs-uulm/retro-lambda.git",
+  "author": "Dominik Meißner <dominik.meissner@uni-ulm.de> (https://uni-ulm.de/in/vs/meissner)",
+  "contributors": [
+    "Dominik Meißner <dominik.meissner@uni-ulm.de> (https://uni-ulm.de/in/vs/meissner)",
+    "Benjamin Erb <benjamin.erb@uni-ulm.de> (https://uni-ulm.de/in/vs/erb)"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "engines": {
+    "node": "9.5.0"
+  },
+  "dependencies": {
+    "debug": "3.1.0",
+    "fast-json-patch": "2.0.6",
+    "jsonpatcherproxy": "0.0.9",
+    "level-packager": "2.1.1",
+    "rocksdb": "0x530302/rocksdb#read-only",
+    "uuid": "3.2.1",
+    "uuid-parse": "1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "4.17.0",
+    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-plugin-import": "2.8.0"
+  }
+}
