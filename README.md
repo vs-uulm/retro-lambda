@@ -11,7 +11,7 @@
 Node.js prototype of an event-sourced serverless computing platform with retroactive capabilities.
 
 ## Example Applications
- * [Shooping Cart Service](https://github.com/vs-uulm/debs2018-rl-evaluation): A shopping cart microservice with two reference implementations (in-memory, postgresql) for comparison.
+ * [Shopping Cart Service](https://github.com/vs-uulm/debs2018-rl-evaluation): A shopping cart microservice with two reference implementations (in-memory, postgresql) for comparison.
 
 ## Publications
  * Dominik Meißner, Benjamin Erb, Frank Kargl, and Matthias Tichy. 2018. RETRO-λ: An Event-sourced Platform for Serverless Applications with Retroactive Computing Support. In DEBS '18: The 12th ACM International Conference on Distributed and Event-based Systems, June 25-29, 2018, Hamilton, New Zealand. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3210284.3210285

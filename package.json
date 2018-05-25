@@ -1,6 +1,6 @@
 {
   "name": "retro-lambda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS-based prototype of an event-sourced computing platform with retroactive capabilities.",
   "keywords": [
     "event sourcing",
