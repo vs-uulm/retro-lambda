@@ -29,7 +29,7 @@
     "debug": "3.1.0",
     "fast-json-patch": "2.0.6",
     "level-packager": "2.1.1",
-    "rocksdb": "0x530302/rocksdb#read-only",
+    "rocksdb": "4.1.0",
     "uuid": "3.2.1",
     "uuid-parse": "1.0.0"
   },

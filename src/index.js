@@ -361,7 +361,6 @@ function executeCommand([aggregateId, command, ...args], commandIndex) {
           state: JSON.parse(JSON.stringify(initialState))
         };
       } catch (err) {
-        console.log('wtf', err);
         res = {
           clock: 0,
           aggregate: aggregateId,
