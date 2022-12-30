@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "debug": "3.1.0",
-    "fast-json-patch": "2.0.6",
+    "fast-json-patch": "3.1.1",
     "level-packager": "2.1.1",
     "rocksdb": "4.1.0",
     "uuid": "3.2.1",
